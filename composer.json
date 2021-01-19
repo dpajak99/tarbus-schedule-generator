@@ -1,0 +1,12 @@
+{
+    "name": "dominik/schedule-generator",
+    "authors": [
+        {
+            "name": "Dominik Pająk",
+            "email": "dominik00801@gmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    }
+}
